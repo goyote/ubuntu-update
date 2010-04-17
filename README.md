@@ -1,8 +1,6 @@
 Install Ubuntu Software
 ===
 
-This is a simple bash script you can execute as soon as you install ubuntu
-from scratch. It will install a bunch of tools and applications that are
-essential to most programmer's workflow.
+Bash script you can execute as soon as you install ubuntu. It will install a bunch of useful tools and applications for programmers.
 
 &copy; 2010 [Gregorio Ramirez](http://gregorioramirez.com)
