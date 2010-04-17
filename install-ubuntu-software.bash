@@ -47,3 +47,7 @@ sudo apt-get install git-core
 # Install java
 sudo apt-get install sun-java6-bin sun-java6-jre sun-java6-fonts
 
+# Install ack
+sudo apt-get install ack
+
+
