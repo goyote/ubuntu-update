@@ -42,7 +42,7 @@ sudo apt-get install vim-gnome
 sudo apt-get install subversion subversion-tools
 
 # Install git
-sudo apt-get install git-core
+sudo apt-get install git-core gitk
 
 # Install java
 sudo apt-get install sun-java6-bin sun-java6-jre sun-java6-fonts
