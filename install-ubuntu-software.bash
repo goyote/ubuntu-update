@@ -48,6 +48,6 @@ sudo apt-get install git-core gitk
 sudo apt-get install sun-java6-bin sun-java6-jre sun-java6-fonts
 
 # Install ack
-sudo apt-get install ack
+sudo apt-get install ack-grep
 
 
