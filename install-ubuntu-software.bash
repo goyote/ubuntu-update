@@ -50,4 +50,5 @@ sudo apt-get install sun-java6-bin sun-java6-jre sun-java6-fonts
 # Install ack
 sudo apt-get install ack-grep
 
-
+# Install apache ant
+sudo apt-get install ant
