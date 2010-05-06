@@ -44,6 +44,7 @@ sudo apt-get install subversion subversion-tools
 # Install git
 sudo apt-get install git-core gitk
 
+# sudo update-alternatives --config java
 # Install java
 sudo apt-get install sun-java6-jdk sun-java6-bin sun-java6-jre sun-java6-fonts
 
@@ -52,3 +53,6 @@ sudo apt-get install ack-grep
 
 # Install apache ant
 sudo apt-get install ant ant-optional
+
+# Install tree
+sudo apt-get install tree
