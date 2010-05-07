@@ -1,4 +1,4 @@
-Install Ubuntu Software
+Ubu-Update
 ===
 
 Bash script you can execute as soon as you install ubuntu. It will install a bunch of useful tools and applications for programmers.
