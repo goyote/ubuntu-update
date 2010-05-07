@@ -1,5 +1,5 @@
 #! /bin/bash
-#
+
 # Copyright (c) 2010 Gregorio Ramirez, http://gregorioramirez.com
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -56,3 +56,8 @@ sudo apt-get install ant ant-optional
 
 # Install tree
 sudo apt-get install tree
+
+# Install apache php
+sudo apt-get install apache2 php5 libapache2-mod-php5
+
+
