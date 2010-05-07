@@ -39,7 +39,7 @@ sudo apt-get install ubuntu-restricted-extras
 sudo apt-get install vim-gnome
 
 # Install svn
-sudo apt-get install subversion subversion-tools
+sudo apt-get install subversion subversion-tools libsvn-javahl
 
 # Install git
 sudo apt-get install git-core gitk
