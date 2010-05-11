@@ -60,4 +60,7 @@ sudo apt-get install tree
 # Install apache php
 sudo apt-get install apache2 php5 libapache2-mod-php5
 
+# Install bittorrent
+sudo apt-get install bittorrent libwxgtk2.8-0
 
+exit 0
