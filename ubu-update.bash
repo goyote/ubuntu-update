@@ -61,7 +61,7 @@ sudo apt-get install tree
 sudo apt-get install apache2 php5 libapache2-mod-php5
 
 # Install curl
-sudo apt-get install curl libcurl3 libcurl3-dev php5-curl
+sudo apt-get install curl libcurl3 libcurl3-dev php5-curl php5-mcrypt php5-gd
 
 # Install bittorrent
 sudo apt-get install bittorrent libwxgtk2.8-0
