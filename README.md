@@ -8,4 +8,4 @@ To install, run the following snippet on the command line:
     chmod u+rx ubuntu-update.bash
     ./ubuntu-update.bash
 
-Copyright &copy; 2010 [Gregorio Ramirez](http://gregorioramirez.com), [MIT License](http://www.opensource.org/licenses/mit-license.php)
+Copyright &copy; 2010 [Gregorio Ramirez](http://gregorioramirez.com), [MIT License](http://www.opensource.org/licenses/mit-license.php).
